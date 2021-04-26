@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelFusco
 - 👀 I’m interested in: Crypto, Tech, Coding, Drafting
-- 🌱 I’m currently learning: AutoCAD, C++ (newbie)
+- 🌱 I’m currently learning: AutoCAD, C++
 - 💞️ I’m looking to collaborate on: Ravencoin
 - 📫 How to reach me: michael.r.fusco@gmail.com
